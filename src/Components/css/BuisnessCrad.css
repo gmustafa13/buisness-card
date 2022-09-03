@@ -1,0 +1,21 @@
+.buisness-info{
+    
+     /* color: rgb(64, 44, 70); */
+}
+.card-class{
+     width: 90%;
+     background-color: rgb(72, 69, 64);
+}
+.colomn{
+     margin-bottom: 3%;
+     color: rgb(28, 38, 46);
+}
+.image-box{
+     width: auto;
+     height: 200px;
+}
+.unorder-list{
+     list-style: none;
+     padding: 6px;
+     display: inline-flex;
+}
